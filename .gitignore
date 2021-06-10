@@ -1,0 +1,5 @@
+*.class
+bin/
+file1
+.classpath.txt
+file1.txt
